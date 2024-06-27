@@ -1,0 +1,30 @@
+.user-list-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .product-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .product-item {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  .product-image {
+    max-width: 100px;
+    height: auto;
+    border-radius: 2px;
+  }
+  
+  .product-details {
+    margin-top: 10px;
+  }
+  
+  .product-link {
+    color: #007bff;
+    text-decoration: none;
+  }
